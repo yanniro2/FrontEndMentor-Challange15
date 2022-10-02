@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange15/static/css/main.aa346d21.css",
+    "main.js": "/FrontEndMentor-Challange15/static/js/main.239d3091.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange15/static/js/787.a97cb00a.chunk.js",
+    "index.html": "/FrontEndMentor-Challange15/index.html",
+    "main.aa346d21.css.map": "/FrontEndMentor-Challange15/static/css/main.aa346d21.css.map",
+    "main.239d3091.js.map": "/FrontEndMentor-Challange15/static/js/main.239d3091.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange15/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa346d21.css",
+    "static/js/main.239d3091.js"
+  ]
+}
